@@ -1,0 +1,62 @@
+[
+  {
+    "id": "TXN001",
+    "date": "2026-09-28",
+    "description": "Nakumatt Food Purchase",
+    "category": "Food",
+    "amount": -45000,
+    "status": "Settled",
+    "merchant": "Nakumatt",
+    "account": "Checking Account"
+  },
+  {
+    "id": "TXN002",
+    "date": "2026-09-29",
+    "description": "UMEME Electricity Bill",
+    "category": "Utilities",
+    "amount": -85000,
+    "status": "Pending",
+    "merchant": "UMEME",
+    "account": "Checking Account"
+  },
+  {
+    "id": "TXN003",
+    "date": "2026-09-30",
+    "description": "Salary Payment",
+    "category": "Income",
+    "amount": 1500000,
+    "status": "Settled",
+    "merchant": "Employer",
+    "account": "Checking Account"
+  },
+  {
+    "id": "TXN004",
+    "date": "2026-10-01",
+    "description": "Restaurant Payment",
+    "category": "Food",
+    "amount": -35000,
+    "status": "Pending",
+    "merchant": "Restaurant",
+    "account": "Checking Account"
+  },
+  {
+    "id": "TXN005",
+    "date": "2026-10-02",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "amount": -60000,
+    "status": "Settled",
+    "merchant": "Internet Provider",
+    "account": "Checking Account"
+  },
+  {
+    "id": "TXN006",
+    "date": "2026-10-02",
+    "description": "Freelance Payment",
+    "category": "Income",
+    "amount": 500000,
+    "status": "Pending",
+    "merchant": "Client",
+    "account": "Checking Account"
+  }
+]
